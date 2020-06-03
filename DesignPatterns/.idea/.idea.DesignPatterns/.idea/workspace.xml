@@ -8,6 +8,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DesignPatterns" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -27,9 +30,15 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,6 +72,9 @@
       </method>
     </configuration>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591199077867</updated>
-      <workItem from="1591199081926" duration="49000" />
+      <workItem from="1591199081926" duration="12528000" />
     </task>
     <servers />
   </component>
@@ -99,6 +111,50 @@
   <component name="WindowStateProjectService">
     <state x="493" y="396" key="#Default" />
     <state x="493" y="396" key="#Default/3440.1440" />
+    <state width="877" height="506" key="DebuggerActiveHint" />
+    <state width="877" height="506" key="DebuggerActiveHint/3440.1440" />
+    <state width="1642" height="338" key="GridCell.Tab.0.bottom" />
+    <state width="1642" height="338" key="GridCell.Tab.0.bottom/3440.1440" />
+    <state width="1642" height="338" key="GridCell.Tab.0.center" />
+    <state width="1642" height="338" key="GridCell.Tab.0.center/3440.1440" />
+    <state width="1642" height="338" key="GridCell.Tab.0.left" />
+    <state width="1642" height="338" key="GridCell.Tab.0.left/3440.1440" />
+    <state width="1642" height="338" key="GridCell.Tab.0.right" />
+    <state width="1642" height="338" key="GridCell.Tab.0.right/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.1.bottom" />
+    <state width="1455" height="506" key="GridCell.Tab.1.bottom/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.1.center" />
+    <state width="1455" height="506" key="GridCell.Tab.1.center/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.1.left" />
+    <state width="1455" height="506" key="GridCell.Tab.1.left/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.1.right" />
+    <state width="1455" height="506" key="GridCell.Tab.1.right/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.2.bottom" />
+    <state width="1455" height="506" key="GridCell.Tab.2.bottom/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.2.center" />
+    <state width="1455" height="506" key="GridCell.Tab.2.center/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.2.left" />
+    <state width="1455" height="506" key="GridCell.Tab.2.left/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.2.right" />
+    <state width="1455" height="506" key="GridCell.Tab.2.right/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.3.bottom" />
+    <state width="1455" height="506" key="GridCell.Tab.3.bottom/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.3.center" />
+    <state width="1455" height="506" key="GridCell.Tab.3.center/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.3.left" />
+    <state width="1455" height="506" key="GridCell.Tab.3.left/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.3.right" />
+    <state width="1455" height="506" key="GridCell.Tab.3.right/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.4.bottom" />
+    <state width="1455" height="506" key="GridCell.Tab.4.bottom/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.4.center" />
+    <state width="1455" height="506" key="GridCell.Tab.4.center/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.4.left" />
+    <state width="1455" height="506" key="GridCell.Tab.4.left/3440.1440" />
+    <state width="1455" height="506" key="GridCell.Tab.4.right" />
+    <state width="1455" height="506" key="GridCell.Tab.4.right/3440.1440" />
+    <state x="360" y="363" key="SettingsEditor" />
+    <state x="360" y="363" key="SettingsEditor/3440.1440" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
