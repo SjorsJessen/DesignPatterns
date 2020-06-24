@@ -1,19 +1,15 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\jesseslgj\\Documents\\Design Patterns\\Design Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+    "projectUniqueName": "/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
     "projectName": "DesignPatterns",
-    "projectPath": "C:\\Users\\jesseslgj\\Documents\\Design Patterns\\Design Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
-    "outputPath": "C:\\Users\\jesseslgj\\Documents\\Design Patterns\\Design Patterns\\DesignPatterns\\DesignPatterns\\obj\\",
+    "projectPath": "/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
+    "outputPath": "/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
     ],
     "sources": {
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
@@ -38,10 +34,16 @@
         }
       },
       "imports": [
-        "net461"
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
     }
   }
 }

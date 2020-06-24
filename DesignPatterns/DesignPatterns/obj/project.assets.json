@@ -688,30 +688,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jesseslgj\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/sjorsjessen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesseslgj\\Documents\\Design Patterns\\Design Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
       "projectName": "DesignPatterns",
-      "projectPath": "C:\\Users\\jesseslgj\\Documents\\Design Patterns\\Design Patterns\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
-      "packagesPath": "C:\\Users\\jesseslgj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jesseslgj\\Documents\\Design Patterns\\Design Patterns\\DesignPatterns\\DesignPatterns\\obj\\",
+      "projectPath": "/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
+      "packagesPath": "/Users/sjorsjessen/.nuget/packages/",
+      "outputPath": "/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jesseslgj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/sjorsjessen/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -736,10 +730,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,11 +1,21 @@
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.deps.json
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.json
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.runtimeconfig.dev.json
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.dll
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp2.1\DesignPatterns.pdb
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csprojAssemblyReference.cache
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.csproj.CoreCompileInputs.cache
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfoInputs.cache
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.AssemblyInfo.cs
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.dll
-C:\Users\jesseslgj\Documents\Design Patterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp2.1\DesignPatterns.pdb
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.deps.json
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.runtimeconfig.json
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.runtimeconfig.dev.json
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.dll
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.pdb
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.csprojAssemblyReference.cache
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.csproj.CoreCompileInputs.cache
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.AssemblyInfoInputs.cache
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.AssemblyInfo.cs
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.dll
+C:/Users/jesseslgj/Documents/Design Patterns/Design Patterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.pdb
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.deps.json
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.runtimeconfig.json
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.runtimeconfig.dev.json
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.dll
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/bin/Debug/netcoreapp2.1/DesignPatterns.pdb
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.csprojAssemblyReference.cache
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.AssemblyInfoInputs.cache
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.AssemblyInfo.cs
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.dll
+/Users/sjorsjessen/Google Drive/Coding/C#/DesignPatterns/DesignPatterns/DesignPatterns/obj/Debug/netcoreapp2.1/DesignPatterns.pdb

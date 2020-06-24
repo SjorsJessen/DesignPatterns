@@ -88,23 +88,24 @@ namespace DesignPatterns
 
     public class AndSpecification<T> : ISpecification<T>
     {
-        private readonly ISpecification<T> first, second;
+        private readonly ISpecification<T> firstSpecification;
+        private readonly ISpecification<T> secondSpecification;
 
-        public AndSpecification(ISpecification<T> first, ISpecification<T> second)
+        public AndSpecification(ISpecification<T> firstSpecification, ISpecification<T> secondSpecification)
         {
-            this.first = first;
-            this.second = second;
+            this.firstSpecification = firstSpecification;
+            this.secondSpecification = secondSpecification;
         }
         
         public bool IsSatisfied(T type)
         {
-            return first.IsSatisfied(type) && second.IsSatisfied(type);
+            return firstSpecification.IsSatisfied(type) && secondSpecification.IsSatisfied(type);
         }
     }
     
     public class BetterFilter : IFilter<Product>
     {
-        public IEnumerable<Product> Filter(IEnumerable<Product> items, ISpecification<Product> specification)
+        public IEnumerable<Product> Filter (IEnumerable<Product> items, ISpecification<Product> specification)
         {
             return items.Where(item => specification.IsSatisfied(item));
         }
@@ -115,31 +116,28 @@ namespace DesignPatterns
     {
         private static void Main(string[] args)
         {
-            var apple = new Product("Apple", Color.Blue, Size.Small);
-            var tree = new Product("Tree", Color.Red, Size.Large);
-            var house = new Product("House", Color.Yellow, Size.Large);
+            Product apple = new Product("Apple", Color.Blue, Size.Small);
+            Product tree = new Product("Tree", Color.Red, Size.Large);
+            Product house = new Product("House", Color.Yellow, Size.Large);
 
             Product[] products = {apple, tree, house};
-            var productFilter = new ProductFilter();
+            ProductFilter productFilter = new ProductFilter();
             
             Console.WriteLine("Red products (old method): ");
-            foreach (var product in productFilter.FilterByColor(products, Color.Red))
+            foreach (Product product in productFilter.FilterByColor(products, Color.Red))
             {
                 Console.WriteLine($" - {product.Name} is red");
             }
             
-            var betterFilter = new BetterFilter();
+            BetterFilter betterFilter = new BetterFilter();
             Console.WriteLine("Green products (new): ");
-            foreach (var  product in betterFilter.Filter(products, new ColorSpecification(Color.Red)))
+            foreach (Product product in betterFilter.Filter(products, new ColorSpecification(Color.Red)))
             {
                 Console.WriteLine($" - {product.Name} is red");
             }            
             
             Console.WriteLine("Large yellow items: ");
-            foreach (var product in betterFilter.Filter(products, 
-                new AndSpecification<Product>(new ColorSpecification(Color.Yellow), new SizeSpecification(Size.Large))
-                )
-            )
+            foreach (Product product in betterFilter.Filter(products, new AndSpecification<Product>(new ColorSpecification(Color.Yellow), new SizeSpecification(Size.Large))))
             {
                 Console.WriteLine($" - {product.Name} is large and yellow");
             }
